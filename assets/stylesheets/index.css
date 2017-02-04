@@ -23,3 +23,8 @@ body {
 .dropdown-heading {
   margin: 2px;
 }
+
+.container-body {
+  margin-left: 1px;
+  margin-right: 1px;
+}

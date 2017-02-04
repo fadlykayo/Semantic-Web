@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  font-family: Arial, serif;
+}
+
+#banner {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#hr-banner {
+  margin-top: 0;
+  margin-bottom: 5px;
+  border: 1px solid;
+  border-color: blue;
+  border-width:
+}

@@ -19,3 +19,7 @@ body {
   border-color: blue;
   border-width:
 }
+
+.dropdown-heading {
+  margin: 2px;
+}

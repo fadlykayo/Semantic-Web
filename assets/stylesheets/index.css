@@ -24,7 +24,16 @@ body {
   margin: 2px;
 }
 
-.container-body {
-  margin-left: 1px;
-  margin-right: 1px;
+#p1-right-row-1 {
+  font-size: 20px;
+  color: blue;
+}
+
+#p1-right-row-2 {
+  font-size: 20px;
+  color: #00b8e6;
+}
+
+.column {
+  padding: 0px 5px;
 }

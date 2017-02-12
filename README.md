@@ -2,5 +2,5 @@
 Project 1 - H8
 
 ## Usage
-npm install
+npm install,
 npm run dev
